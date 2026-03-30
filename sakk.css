@@ -1,0 +1,42 @@
+body{
+    background-image: url(sakk-hatter.png);
+    font-weight: 300px;
+    text-align: justify;
+}
+ 
+.row{
+    text-align: center;
+    font-family: Cinzel Decorative;
+    font-weight: 96px;
+}
+
+.feher{
+    background-color: black;
+    color: white;
+}
+
+.fekete{
+    color: black;
+    background-color: white;
+}
+
+.fk{
+    font-weight: bold;
+}
+
+.alakzat{
+    text-align: center;
+    margin: 0px;
+}
+
+.kepleiras{
+    font-size: initial;
+    font-weight: 12px;
+    font-weight: bold;
+}
+
+.col-md-3{
+    font-weight: 300px;
+    font-size: 100px
+    
+}
